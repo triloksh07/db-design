@@ -16,3 +16,5 @@ A normalized ER diagram designed for a small-scale fashion business transitionin
 - **Orders & Order_items:** Captures the transaction and the specific snapshot of products sold.
 - **Inventory:** Tracks stock, color, and size variants.
 - **Payments & Shipping:** Decoupled status tracking for financial and logistical clarity.
+
+![ERD](its_ERD.png)
